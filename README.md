@@ -140,7 +140,5 @@ Malla Reddy University, Hyderabad, India
 
 
 
----
 
-⭐ If you find this project useful, consider giving the repository a star!
 
